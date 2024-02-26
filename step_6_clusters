@@ -13,7 +13,7 @@
 
 2. Piece cluster
   - Piece
-  - PieceMovement
 
 3. Movement cluster
-  - MovementResult
+  - PieceMovement
+  - BasicMovement
